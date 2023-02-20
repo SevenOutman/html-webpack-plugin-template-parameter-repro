@@ -1,6 +1,6 @@
 # `html-webpack-plugin` issue demo
 
-This repository aims to demonstrate an issue within `html-webpack-plugin` 5.5.0.
+This repository aims to demonstrate [an issue](https://github.com/jantimon/html-webpack-plugin/issues/1752) within `html-webpack-plugin` 5.5.0.
 
 ## TL;DR
 
